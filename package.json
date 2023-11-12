@@ -453,8 +453,8 @@
     "zip-stream": "^4.1.1"
   },
   "devDependencies": {
-    "serverless": "^2.4.0",
-    "serverless-appsync-plugin": "^2.5.2"
+    "serverless": "2.4.0",
+    "serverless-appsync-plugin": "2.4.0"
   },
   "scripts": {
     "sls": "sls"
