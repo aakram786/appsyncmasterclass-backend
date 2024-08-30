@@ -420,7 +420,7 @@
     "universalify": "^0.1.2",
     "untildify": "^4.0.0",
     "uri-js": "^4.4.1",
-    "url": "^0.10.3",
+    "url": "^0.11.4",
     "url-parse-lax": "^3.0.0",
     "url-to-options": "^1.0.1",
     "urlencode": "^1.1.0",
