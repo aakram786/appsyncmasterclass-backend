@@ -197,7 +197,7 @@
     "http-cache-semantics": "^4.1.1",
     "http2-wrapper": "^1.0.3",
     "https-proxy-agent": "^5.0.1",
-    "iconv-lite": "^0.4.24",
+    "iconv-lite": "^0.6.3",
     "ieee754": "^1.2.1",
     "ignore": "^5.2.4",
     "immediate": "^3.0.6",
