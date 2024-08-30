@@ -399,7 +399,7 @@
     "through": "^2.3.8",
     "timed-out": "^4.0.1",
     "timers-ext": "^0.1.7",
-    "tmp": "^0.0.33",
+    "tmp": "^0.2.3",
     "to-array": "^0.1.4",
     "to-buffer": "^1.1.1",
     "to-readable-stream": "^1.0.0",
