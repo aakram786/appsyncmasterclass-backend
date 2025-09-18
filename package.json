@@ -30,7 +30,7 @@
     "at-least-node": "^1.0.0",
     "available-typed-arrays": "^1.0.5",
     "aws-sdk": "^2.1494.0",
-    "axios": "^0.21.4",
+    "axios": "^1.12.0",
     "backo2": "^1.0.2",
     "balanced-match": "^1.0.2",
     "base64-arraybuffer": "^0.1.4",
